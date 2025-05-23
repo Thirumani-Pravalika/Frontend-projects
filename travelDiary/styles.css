@@ -1,0 +1,42 @@
+body{
+    background-color: #c3e2ed;
+    margin: 15px;
+    color: rgb(9, 9, 55);
+}
+.text{
+    color: rgb(7, 25, 71);
+    margin: 0%;
+}
+#about{
+    
+}
+h2{
+    text-align: center;
+}
+.header{
+    margin: 0%;
+    width: 100%;
+    background-color: rgb(4, 36, 45);
+    color: rgb(189, 224, 224);
+    text-align: center;
+
+}
+#contact{
+    text-align: center;
+    background-color: #020311;
+    color: rgb(179, 201, 220);
+}
+.form{
+    text-align: center;
+}
+.radio{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{ 
+color: rgb(224, 147, 157);
+margin-right: 15px;
+}
+a{
+    color: rgb(229, 4, 23);
+}
