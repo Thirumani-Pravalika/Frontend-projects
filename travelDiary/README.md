@@ -22,7 +22,7 @@ This is a simple Travel Diary website built using **HTML** and **CSS**. It showc
 
 ## 📸 Preview
 
-
+![screenshot](honey travel diary.png)
 
 ---
 
